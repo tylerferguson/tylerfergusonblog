@@ -1,0 +1,45 @@
+# your designation
+designation: PhD Student
+# your company information
+company:
+  name: The Big Data Institute, Oxford University
+  url: "https://www.bdi.ox.ac.uk/"
+summary: 'I like maths, coding, pubs, travel, basketball, guitar, singing, chess and most recently, cycling. I build things that I think are interesting and I like to talk about it. I''m always up for a chat over a coffee or beer - just get in touch.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "hi@tylerferguson.me"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/tylerferguson"
+
+# - name: Stackoverflow
+#   icon: "fab fa-stack-overflow"
+#   url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/tyler-ferguson-60b640134/"
+
+# - name: Twitter
+#   icon: "fab fa-twitter"
+#   url: "#"
+
+# - name: Facebook
+#   icon: "fab fa-facebook"
+#   url: "#"
+
+softSkills:
+- name: Data Scientist
+  percentage: 85
+  color: blue
+- name: Mathematician
+  percentage: 80
+  color: yellow
+- name: Developer
+  percentage: 90
+  color: green
