@@ -2,6 +2,7 @@ baseURL:  https://tylerferguson.github.io/tylerfergusonblog/
 languageCode: en-us
 title: "Tyler Ferguson"
 theme: "toha"
+publishDir: docs
 
 # Allow raw html in markdown file
 markup:
