@@ -23,6 +23,7 @@ body {
   position: relative;
   top: -4.5rem;
   padding: 15px;
+  margin-top: 120px;
 }
 
 .author-profile {
@@ -51,6 +52,11 @@ body {
 
 .post-content {
   padding: 15px;
+}
+
+#post-content {
+  max-width: 740px;
+  margin: auto;
 }
 
 .post-content h1,

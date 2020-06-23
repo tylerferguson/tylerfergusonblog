@@ -1,6 +1,6 @@
 baseURL:  http://tylerferguson.me
 languageCode: en-us
-title: "Tyler Ferguson | Blog"
+title: "Tyler Ferguson"
 theme: "toha"
 publishDir: docs
 

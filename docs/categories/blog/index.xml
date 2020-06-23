@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tyler Ferguson</title>
-    <link>http://tylerferguson.me/</link>
-    <description>Recent content on Tyler Ferguson</description>
+    <title>blog on Tyler Ferguson</title>
+    <link>http://tylerferguson.me/categories/blog/</link>
+    <description>Recent content in blog on Tyler Ferguson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Jun 2020 15:07:00 +0000</lastBuildDate>
     
-	<atom:link href="http://tylerferguson.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://tylerferguson.me/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

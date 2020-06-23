@@ -3,15 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://tylerferguson.me/categories/</loc>
+    <loc>http://tylerferguson.me/posts/starting-a-blog/</loc>
+    <lastmod>2020-06-23T15:07:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tylerferguson.me/tags/</loc>
+    <loc>http://tylerferguson.me/categories/blog/</loc>
+    <lastmod>2020-06-23T15:07:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tylerferguson.me/categories/</loc>
+    <lastmod>2020-06-23T15:07:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tylerferguson.me/posts/starting-a-blog/starting-a-blog/</loc>
+    <lastmod>2020-06-23T15:07:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tylerferguson.me/posts/</loc>
+    <lastmod>2020-06-23T15:07:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://tylerferguson.me/</loc>
+    <lastmod>2020-06-23T15:07:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tylerferguson.me/tags/</loc>
   </url>
   
 </urlset>
