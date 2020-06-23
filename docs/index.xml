@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tyler Ferguson | Blog</title>
-    <link>https://tylerferguson.github.io/tylerfergusonblog/</link>
+    <link>http://tylerferguson.me/</link>
     <description>Recent content on Tyler Ferguson | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://tylerferguson.github.io/tylerfergusonblog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://tylerferguson.me/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

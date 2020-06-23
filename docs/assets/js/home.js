@@ -43,6 +43,24 @@ var projectCards;
       }
     }
 
+    $( "#footer-subscription" ).submit(function( event ) {
+      console.log("we been called")
+      event.preventDefault();
+
+      const url = "https://tylerferguson.us10.list-manage.com/subscribe/post"
+
+      const email = document.getElementById("exampleInputEmail1").value
+      const data = "u=f11abfc0d11ec4ed9996d3a25&id=fc4064b1b2&b_email=" + email
+
+      $.ajax({
+        type: "POST",
+        url: url,
+        data: data,
+        // success: success,
+        // dataType: dataType
+      });
+    });
+
     // ================= Smooth Scroll ===================
     // Add smooth scrolling to all links
     $("a").on('click', function (event) {
