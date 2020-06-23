@@ -11,7 +11,7 @@ summary: 'I like maths, coding, pubs, travel, basketball, guitar, singing, chess
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "hi@tylerferguson.me"
+  url: "mailto:hi@tylerferguson.me"
 
 - name: Github
   icon: "fab fa-github"
