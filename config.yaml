@@ -1,6 +1,6 @@
 baseURL:  https://tylerferguson.github.io/tylerfergusonblog/
 languageCode: en-us
-title: "Tyler Ferguson"
+title: "Tyler Ferguson | Blog"
 theme: "toha"
 publishDir: docs
 
