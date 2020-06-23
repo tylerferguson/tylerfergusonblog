@@ -47,17 +47,17 @@ var projectCards;
       console.log("we been called")
       event.preventDefault();
 
-      const url = "https://tylerferguson.us10.list-manage.com/subscribe/post"
+      const url = "https://tylerferguson.us10.list-manage.com/subscribe/post-json?u=f11abfc0d11ec4ed9996d3a25&id=fc4064b1b2&c=?"
 
       const email = document.getElementById("exampleInputEmail1").value
-      const data = "u=f11abfc0d11ec4ed9996d3a25&id=fc4064b1b2&b_email=" + email
+      const data = "MERGE0=" + email
 
       $.ajax({
         type: "POST",
         url: url,
         data: data,
         // success: success,
-        // dataType: dataType
+        dataType: "jsonp"
       });
     });
 
