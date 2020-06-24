@@ -33,6 +33,14 @@
   margin-bottom: 10px;
 }
 
+.footer-link {
+  margin-top:20px;
+}
+
+.footer-link a {
+  color: #f9fafc;
+}
+
 .home .greeting {
   color: #f9fafc;
 }

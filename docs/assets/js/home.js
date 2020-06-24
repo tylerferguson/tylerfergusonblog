@@ -43,8 +43,13 @@ var projectCards;
       }
     }
 
+    const success = function() {
+      const emailField = document.getElementById("exampleInputEmail1")
+      emailField.value = ""
+      $( "<p>Thanks for subscribing!</p>" ).insertAfter( emailField );
+    }
+
     $( "#footer-subscription" ).submit(function( event ) {
-      console.log("we been called")
       event.preventDefault();
 
       const url = "https://tylerferguson.us10.list-manage.com/subscribe/post-json?u=f11abfc0d11ec4ed9996d3a25&id=fc4064b1b2&c=?"
@@ -56,7 +61,7 @@ var projectCards;
         type: "POST",
         url: url,
         data: data,
-        // success: success,
+        success: success,
         dataType: "jsonp"
       });
     });

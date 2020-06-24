@@ -32,7 +32,6 @@ strong{
 
 p {
   color: #3c4858;
-  font-size: 1.2rem !important;
 }
 
 a {
@@ -197,7 +196,7 @@ img.right{
   background-color: #8392a5;
 }
 
-.footer p:first-child {
+.footer p {
   color: #c0ccda;
 }
 

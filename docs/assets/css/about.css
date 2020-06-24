@@ -95,6 +95,13 @@
   left: 5%;
 }
 
+.rounded-circle {
+  width: 200px;
+  height: 200px;
+  background-color: #e7e7ef;
+  margin-top: 40px;
+}
+
 .circular-progress.blue .circular-progress-bar {
   border-color: #048dff;
 }
@@ -359,6 +366,9 @@
 /* Medium devices (tablets, 768px and up) */
 
 @media only screen and (max-width: 768px) {
+  .rounded-circle {
+    margin-top: 0px;
+  }
 }
 
 /* Small devices (landscape phones, 576px and up) */
