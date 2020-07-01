@@ -9,8 +9,6 @@ categories:
 - nba-playoffs
 ---
 
-_([This post was initially shared on medium.com](https://medium.com/@tyler.ferguson/what-if-round-1-of-the-nba-playoffs-was-best-of-5-7f91168c6eee).  I'll write a blog post soon on why I'm moving existing and future content away from Medium.)_
-
 Prior to the 2002–03 NBA season the first round of the NBA Playoffs was a best of 5 format. It had been this way since the 1984 season (a year that's been coming up an awful lot lately with [a certain documentary](https://en.wikipedia.org/wiki/The_Last_Dance_(2020_TV_series)) coming out). Before 1984 the league had experimented with a few different formats. But the post-1984 format is very familiar to us all: 4 rounds in the playoffs, each round is a best of 7 series.
 
 Except for that first round.
@@ -205,3 +203,5 @@ We are now at our final step. In order to find the teams that won Round 1 in a b
 Straight away, by sheer coincidence, we can see an example where there would have been a difference! The Round 1 series between Detroit and Orlando in 2003. Just one year before and Orlando would have walked away from this series with the win.
 
 To follow a basketball discussion go to the [Results](#results) section.
+
+_([This post was initially shared on medium.com](https://medium.com/@tyler.ferguson/what-if-round-1-of-the-nba-playoffs-was-best-of-5-7f91168c6eee).  I'll write a blog post soon on why I'm moving existing and future content away from Medium.)_

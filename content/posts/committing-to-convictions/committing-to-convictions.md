@@ -1,5 +1,5 @@
 ---
-title: "Committing to Convictions: How 'They' Lets Us Avoid Accountability"
+title: "Committing to Convictions: How ‘They’ Lets Us Avoid Accountability"
 date: "2020-07-01"
 hero: /images/posts/committing-to-convictions/hero.png
 author:
