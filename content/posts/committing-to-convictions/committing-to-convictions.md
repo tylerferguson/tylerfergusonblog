@@ -1,0 +1,75 @@
+---
+title: "Committing to Convictions: How 'They' Lets Us Avoid Accountability"
+date: "2020-07-01"
+hero: /images/posts/committing-to-convictions/hero.png
+author:
+  name: Tyler Ferguson
+#   image: /assets/images/profile-image.jpg
+categories:
+- committing-to-convictions
+---
+
+They say eating red meat causes cancer. They’re saying you shouldn’t swim in rivers anymore. They say vaccines cause autism.
+
+We’ve all heard these conversational opening gambits before. Big, bold statements that catch the eye and encourage you to jump straight to a hasty conclusion. But why is it that stuff like this is always uttered by them? And just who are they?
+
+The truth is that ‘they’ are no one. ‘They’ are everyone. And some of ‘them’ are more reliable than others.¹
+
+The word ‘they’, by having no fixed meaning, can fool us into attributing more weight and authority to a statement than we should.
+
+> “They say only witches float”.
+
+Well, yes. But they are wrong, and we probably should never have just believed them. But this is only one consequence, and not even the worst one. Much worse is how ‘they’ is an excuse for us to hold on to our preconceived notions and dismiss hurtful, invasive new ones.
+> Jo: “They say that antibiotics might completely stop working one day.”
+>
+>Barry: “Yea, but they also used to say the world was flat.² And penicillin is a key ingredient in my tasty homemade cough remedy.” ³
+
+Here, Barry was not interested in having to get his hands on some other prescription drugs to fuel his habit. Barry already has his mind made up. He made sure of it by conflating the ‘they’ from several thousand years ago and the ‘they’ who have published a lot of work on antibiotic resistance over the last few decades.
+
+So what are we to do here? Discourage scepticism? Surely not. People questioning the information they are given and evaluating it for themselves is exactly what we all want. Is it really Barry’s fault that this tidbit fell on deaf ears? Maybe. But maybe Jo could try a bit harder too.
+
+We need to take drastic measures to improve the way we communicate ideas. We should make sure that conversations are more than an exchange of tenuous falsehoods or agree-to-disagrees.
+
+We need to ban the word ‘they’ from our vocabulary.⁵
+
+It’s a crutch. It allows us to pretend we know more about a topic than we do and it enables us to outsource the blame when we get challenged on the information we share.
+
+Whenever we find an interesting news story or article we should immediately ask ourselves: who is ‘they’? What are their sources? What have they written before? Are they credible? What do they have to gain by writing this?
+
+If we always ask ourselves these questions and try to find out the answer, then two good things will happen:
+
+1. We will not immediately believe what we read and gullibly lap up content no matter the source (people sharing image macros posing as news on Facebook comes to mind).
+
+2. When we want to share this new interesting story that we’ve read, and we’re met with an overly sceptical acquaintance like Barry who clearly isn’t buying our particular brand of propaganda, we can tell them why this isn’t the same ‘them’. Or why this particular ‘them’ can be trusted on this issue. Better yet, we can avoid the word ‘they’ altogether when we first share our new talking point.
+
+> Jo: “The World Health Organization says that antibiotics might stop being effective one day and common infections may start killing people.” ⁴
+>
+> Barry: “Huh. I don’t like the sound of that as penicillin plays a large role in my life as I have no doubt mentioned before. What else does the WHO say about stuff in general?”
+
+Ok ok. Jo said something a lot more reasonable than she did the first time around. It turns out a nice side effect of knowing your source better is also being better informed. Good for her. And maybe Barry was a lot more receptive than he would be in reality. But maybe Barry will go check the WHO’s website now and be slightly better informed on the matter. At the very least, he can’t claim that the WHO used to say the world was flat, and that’s a pretty big improvement.
+
+The overall message here is:
+
+1. Know where your information is coming from. Be able to answer the question: who is ‘they’?
+
+2. When you share information, be prepared to explain where you got it and why you trust it. It’s one thing to look it up for yourself, but now you have a responsibility to share that leg work with the next person.
+
+3. When hearing new information for the first time from someone, ask politely where they got it from. This is not that easy. You don’t want to start [sea-lioning](https://en.wikipedia.org/wiki/Sealioning) left, right and centre, but you do want to at least make sure both you and your friend have thought about the credibility of this information. People aren’t robots. They aren’t going to have citations at hand at all times. But maybe follow up later, and show them what you found whether it agrees with or contradicts what they said. You want to show that you are interested in learning more, not proving them wrong. And maybe, just maybe, this will end up nudging them towards avoiding ‘they’ a little more in the future.
+
+---
+
+[1] Cancer Research UK [recommends reducing processed and red meat consumption to reduce your risk of cancer](https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/diet-and-cancer/does-eating-processed-and-red-meat-cause-cancer#keyrefsmeat0).
+
+The Environment Agency released figures showing an increase in pollutants across many UK rivers and [_The Times_ published an article in August 2019 making the claim based on EU standards for swimming](https://www.thetimes.co.uk/article/pollution-no-river-in-england-is-safe-for-swimming-q8thdx678).
+
+The NHS is clear that [there is no link between the MMR vaccine and autism](https://www.nhs.uk/conditions/vaccinations/mmr-vaccine/) (MMR was the focus of the original [since discredited] study that claimed to have found a link). There is an ever-growing list of studies continuing to prove that there is no link between vaccines and autism. In the interest of balance, I also link a [list of studies showing there is in fact a link](http://vaccinescauseautism.com/). (Stop it. Vaccines do not cause autism.)
+
+[2] It isn’t. Don’t.
+
+[3] Please don’t do this. See [4].
+
+[4] The World Health Organization says that [without action we may end up in a post-antibiotic era where previously treatable infections and injuries could kill](https://www.who.int/news-room/fact-sheets/detail/antibiotic-resistance).
+
+[5] In this context and this context only. We all know I’m not discussing the use of gendered/gender-neutral pronouns in this article.
+
+_([This post was initially shared on medium.com](https://medium.com/@tyler.ferguson/committing-to-convictions-how-they-lets-us-avoid-accountability-c3f43d186c92).  I'll write a blog post soon on why I'm moving existing and future content away from Medium.)_

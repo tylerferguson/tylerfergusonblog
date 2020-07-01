@@ -75,9 +75,9 @@ h6 {
 
 .post-content blockquote {
   border-left: 4px solid #248aaa;
-  background-color: #248baa15;
   padding: 0.3rem;
   padding-left: 1rem;
+  font-style: italic;
 }
 
 .post-content blockquote > p {
