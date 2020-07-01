@@ -6,7 +6,7 @@ author:
   name: Tyler Ferguson
 #   image: /assets/images/profile-image.jpg
 categories:
-- blog
+- starting-a-blog
 ---
 
 This one actually. I have no set plan for content but I do have some goals.

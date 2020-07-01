@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tyler Ferguson</title>
-    <link>http://tylerferguson.me/</link>
-    <description>Recent content on Tyler Ferguson</description>
+    <title>What if Round 1 of the NBA Playoffs was best of 5? on Tyler Ferguson</title>
+    <link>http://tylerferguson.me/posts/nba-playoffs/</link>
+    <description>Recent content in What if Round 1 of the NBA Playoffs was best of 5? on Tyler Ferguson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Jun 2020 21:49:00 +0000</lastBuildDate>
     
-	<atom:link href="http://tylerferguson.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://tylerferguson.me/posts/nba-playoffs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>http://tylerferguson.me/posts/nba-playoffs/nba-playoffs/</guid>
       <description>(This post was initially shared on medium.com. I&amp;rsquo;ll write a blog post soon on why I&amp;rsquo;m moving existing and future content away from Medium.)
 Prior to the 2002–03 NBA season the first round of the NBA Playoffs was a best of 5 format. It had been this way since the 1984 season (a year that&amp;rsquo;s been coming up an awful lot lately with a certain documentary coming out). Before 1984 the league had experimented with a few different formats.</description>
-    </item>
-    
-    <item>
-      <title>I&#39;m Starting a Blog</title>
-      <link>http://tylerferguson.me/posts/starting-a-blog/starting-a-blog/</link>
-      <pubDate>Tue, 23 Jun 2020 15:07:00 +0000</pubDate>
-      
-      <guid>http://tylerferguson.me/posts/starting-a-blog/starting-a-blog/</guid>
-      <description>This one actually. I have no set plan for content but I do have some goals.
-I want to share my thoughts on a whole bunch of topics with others. Not because they&amp;rsquo;re particularly insightful, but because I have lots of them that never make the cut for a real human conversation. I&amp;rsquo;m getting bored of being my own captive audience and now I want to make you miserable too.</description>
     </item>
     
   </channel>
