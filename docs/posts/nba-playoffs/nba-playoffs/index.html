@@ -73,8 +73,10 @@
     </div>
 
     <div class="post-content" id="post-content">
-      <p><em>(<a href="https://medium.com/@tyler.ferguson/what-if-round-1-of-the-nba-playoffs-was-best-of-5-7f91168c6eee">This post was initially shared on medium.com</a>.  I&rsquo;ll write a blog post soon on why I&rsquo;m moving existing and future content away from Medium.)</em></p>
-<p>Prior to the 2002–03 NBA season the first round of the NBA Playoffs was a best of 5 format. It had been this way since the 1984 season (a year that&rsquo;s been coming up an awful lot lately with <a href="https://en.wikipedia.org/wiki/The_Last_Dance_(2020_TV_series)">a certain documentary</a> coming out). Before 1984 the league had experimented with a few different formats. But the post-1984 format is very familiar to us all: 4 rounds in the playoffs, each round is a best of 7 series.</p>
+      <p><em>(<a href="https://medium.com/@tyler.ferguson/what-if-round-1-of-the-nba-playoffs-was-best-of-5-7f91168c6eee" target="_blank">This post was initially shared on medium.com</a>
+.  I&rsquo;ll write a blog post soon on why I&rsquo;m moving existing and future content away from Medium.)</em></p>
+<p>Prior to the 2002–03 NBA season the first round of the NBA Playoffs was a best of 5 format. It had been this way since the 1984 season (a year that&rsquo;s been coming up an awful lot lately with <a href="https://en.wikipedia.org/wiki/The_Last_Dance_%282020_TV_series%29" target="_blank">a certain documentary</a>
+ coming out). Before 1984 the league had experimented with a few different formats. But the post-1984 format is very familiar to us all: 4 rounds in the playoffs, each round is a best of 7 series.</p>
 <p>Except for that first round.</p>
 <p>It always niggled me slightly. Aren&rsquo;t the champs of the Michael Jordan era slightly different to the champs of the Lebron James era?</p>
 <p><em>(It&rsquo;s a great coincidence that these format changes line up with their draft years!)</em></p>
@@ -82,7 +84,8 @@
 <p>Do the Bobcats win it all?</p>
 <p>We&rsquo;re going to find out!</p>
 <h2 id="results">Results</h2>
-<p><em>(If you&rsquo;re interested in how we get to these results using R see <a href="#method">Method</a> below.)</em></p>
+<p><em>(If you&rsquo;re interested in how we get to these results using R see <a href="#method">Method</a>
+ below.)</em></p>
 <figure>
     <img src="/images/posts/nba-playoffs/1.png"
          alt="Playoff series where the best of 5 winner was not the same as the best of 7 winner (2003–2019)."/> <figcaption>
@@ -153,7 +156,8 @@
 <li>
 <p><strong>2014 R1: MEM advance over OKC.</strong>
 <strong>R2: MEM-LAC.</strong> The Grit and Grind Grizzlies took the season series 2–1. Lob city had trouble making it happen in the playoffs. The Grizz advance.</p>
-<p><strong>WCF: MEM-SAS.</strong> If they advance to the next round they meet the eventual champion Spurs who they lost all 4 games to that season. This was a tough Memphis team but no one was stopping the Spurs in 2014. <a href="https://www.youtube.com/watch?v=T3y7cWmoBCI">That San Antonio team was one of the greatest teams to ever play the game</a>.</p>
+<p><strong>WCF: MEM-SAS.</strong> If they advance to the next round they meet the eventual champion Spurs who they lost all 4 games to that season. This was a tough Memphis team but no one was stopping the Spurs in 2014. <a href="https://www.youtube.com/watch?v=T3y7cWmoBCI" target="_blank">That San Antonio team was one of the greatest teams to ever play the game</a>
+.</p>
 <p><strong>Champions: SAS (Reality: SAS)</strong></p>
 </li>
 <li>
@@ -180,7 +184,8 @@
 <hr>
 <h2 id="method">Method</h2>
 <h3 id="getting-data">Getting Data</h3>
-<p>I use the <a href="http://asbcllc.com/nbastatR/">nbastatR</a> package which I can thoroughly recommend for anyone that uses R (or just needs a CSV) and wants to programmatically fetch NBA data of all different flavours.</p>
+<p>I use the <a href="http://asbcllc.com/nbastatR/" target="_blank">nbastatR</a>
+ package which I can thoroughly recommend for anyone that uses R (or just needs a CSV) and wants to programmatically fetch NBA data of all different flavours.</p>
 <p>The NBA first moved to a best of 7 format for the first round in the 2003 Playoffs. We need all playoff series and game results since then.</p>
 <script type="application/javascript" src="https://gist.github.com/tylerferguson/a6f0e9950fe62eac6353a77f72f5fe39.js"></script>
 
@@ -223,7 +228,8 @@
 <li><code>Matchup</code>: the particular series / matchup this game belongs to in the playoff bracket. This is the second to last digit of <code>idGame</code> with 1 added to it e.g. 1 is the matchup between 1st and 8th seed in the East, 2 is 2nd and 7th seed, 5 is 1st and 8th seed in the West etc.</li>
 <li><code>Round</code>: the round of The Playoffs this game belongs to. This is the digit before the <code>Matchup</code> digit (third to last) in <code>idGame</code> e.g. 1 is Round 1, 2 is Round 2, 3 is W/ECF and 4 is finals.</li>
 </ul>
-<p>Finally, we make use of <a href="https://docs.ropensci.org/assertr/">assertr</a> to make sure the assumptions and variables we&rsquo;ve created are valid.</p>
+<p>Finally, we make use of <a href="https://docs.ropensci.org/assertr/" target="_blank">assertr</a>
+ to make sure the assumptions and variables we&rsquo;ve created are valid.</p>
 <script type="application/javascript" src="https://gist.github.com/tylerferguson/92a6feb663f981074c6a986ab3b10765.js"></script>
 
 <figure>
@@ -256,7 +262,8 @@
 </figure>
 
 <p>Straight away, by sheer coincidence, we can see an example where there would have been a difference! The Round 1 series between Detroit and Orlando in 2003. Just one year before and Orlando would have walked away from this series with the win.</p>
-<p>To follow a basketball discussion go to the <a href="#results">Results</a> section.</p>
+<p>To follow a basketball discussion go to the <a href="#results">Results</a>
+ section.</p>
 
     </div>
 
