@@ -11,7 +11,7 @@ markup:
       unsafe: true
 
 # Enable Google Analytics
-# googleAnalytics: <your google analytics id>
+googleAnalytics: UA-171622243-1
 
 # Enable Disqus forum
 # optional
