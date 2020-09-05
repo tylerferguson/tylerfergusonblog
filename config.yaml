@@ -20,6 +20,8 @@ googleAnalytics: UA-171622243-1
 # Enable global emoji support
 enableEmoji: true
 
+enableRobotsTXT : true
+
 # Custom parameters
 params:
   # Github Repo URL. This is used to add "Improve This Page" button
