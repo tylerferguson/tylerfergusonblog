@@ -6,9 +6,34 @@
 		<description>Recent content in Tags on tylerferguson.me</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
+		<lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
 		
 		<atom:link href="http://tylerferguson.me/tags/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>thoughts</title>
+			<link>http://tylerferguson.me/tags/thoughts/</link>
+			<pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+			
+			<guid>http://tylerferguson.me/tags/thoughts/</guid>
+			<description>
+			
+				
+			
+			</description>
+		</item>
+		<item>
+			<title>basketball</title>
+			<link>http://tylerferguson.me/tags/basketball/</link>
+			<pubDate>Tue, 30 Jun 2020 21:49:00 +0000</pubDate>
+			
+			<guid>http://tylerferguson.me/tags/basketball/</guid>
+			<description>
+			
+				
+			
+			</description>
+		</item>
 		
 	</channel>
 </rss>

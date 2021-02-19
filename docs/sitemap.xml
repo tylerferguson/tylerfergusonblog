@@ -13,8 +13,23 @@
   </url>
   
   <url>
+    <loc>http://tylerferguson.me/tags/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tylerferguson.me/tags/thoughts/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tylerferguson.me/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tylerferguson.me/tags/basketball/</loc>
+    <lastmod>2020-06-30T21:49:00+00:00</lastmod>
   </url>
   
   <url>
@@ -37,10 +52,6 @@
   
   <url>
     <loc>http://tylerferguson.me/series/</loc>
-  </url>
-  
-  <url>
-    <loc>http://tylerferguson.me/tags/</loc>
   </url>
   
 </urlset>

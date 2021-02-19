@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>basketball on Tyler Ferguson</title>
+		<link>http://tylerferguson.me/tags/basketball/</link>
+		<description>Recent content in basketball on tylerferguson.me</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Tue, 30 Jun 2020 21:49:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://tylerferguson.me/tags/basketball/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>What if Round 1 of the NBA Playoffs was best of 5?</title>
+			<link>http://tylerferguson.me/post/nba-playoffs/</link>
+			<pubDate>Tue, 30 Jun 2020 21:49:00 +0000</pubDate>
+			
+			<guid>http://tylerferguson.me/post/nba-playoffs/</guid>
+			<description>
+			
+				Prior to the 2002–03 NBA season the first round of the NBA Playoffs was a best of 5 format. It had been this way since the 1984 season (a …
+			
+			</description>
+		</item>
+		
+	</channel>
+</rss>
