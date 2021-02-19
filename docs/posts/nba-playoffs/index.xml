@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>What if Round 1 of the NBA Playoffs was best of 5? on Tyler Ferguson</title>
-    <link>http://tylerferguson.me/posts/nba-playoffs/</link>
-    <description>Recent content in What if Round 1 of the NBA Playoffs was best of 5? on Tyler Ferguson</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2020 21:49:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://tylerferguson.me/posts/nba-playoffs/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>What if Round 1 of the NBA Playoffs was best of 5?</title>
-      <link>http://tylerferguson.me/posts/nba-playoffs/nba-playoffs/</link>
-      <pubDate>Tue, 30 Jun 2020 21:49:00 +0000</pubDate>
-      
-      <guid>http://tylerferguson.me/posts/nba-playoffs/nba-playoffs/</guid>
-      <description>Prior to the 2002–03 NBA season the first round of the NBA Playoffs was a best of 5 format. It had been this way since the 1984 season (a year that&amp;rsquo;s been coming up an awful lot lately with a certain documentarycoming out). Before 1984 the league had experimented with a few different formats. But the post-1984 format is very familiar to us all: 4 rounds in the playoffs, each round is a best of 7 series.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>What if Round 1 of the NBA Playoffs was best of 5? on Vitae</title>
+		<link>http://tylerferguson.me/posts/nba-playoffs/</link>
+		<description>Recent content in What if Round 1 of the NBA Playoffs was best of 5? on tylerferguson.me</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
+		<lastBuildDate>Tue, 30 Jun 2020 21:49:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://tylerferguson.me/posts/nba-playoffs/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>What if Round 1 of the NBA Playoffs was best of 5?</title>
+			<link>http://tylerferguson.me/posts/nba-playoffs/nba-playoffs/</link>
+			<pubDate>Tue, 30 Jun 2020 21:49:00 +0000</pubDate>
+			
+			<guid>http://tylerferguson.me/posts/nba-playoffs/nba-playoffs/</guid>
+			<description>
+			
+				Prior to the 2002–03 NBA season the first round of the NBA Playoffs was a best of 5 format. It had been this way since the 1984 season (a …
+			
+			</description>
+		</item>
+		
+	</channel>
 </rss>

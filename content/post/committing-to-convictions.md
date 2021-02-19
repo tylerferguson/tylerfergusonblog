@@ -1,12 +1,10 @@
 ---
 title: "Committing to Convictions: How ‘They’ Lets Us Avoid Accountability"
 date: "2020-07-01"
-hero: /images/posts/committing-to-convictions/hero.png
+image: /images/posts/committing-to-convictions/hero.png
 author:
   name: Tyler Ferguson
-#   image: /assets/images/profile-image.jpg
-categories:
-- committing-to-convictions
+tags: thoughts
 ---
 
 They say eating red meat causes cancer. They’re saying you shouldn’t swim in rivers anymore. They say vaccines cause autism.
@@ -60,7 +58,7 @@ The overall message here is:
 
 [1] Cancer Research UK [recommends reducing processed and red meat consumption to reduce your risk of cancer](https://www.cancerresearchuk.org/about-cancer/causes-of-cancer/diet-and-cancer/does-eating-processed-and-red-meat-cause-cancer#keyrefsmeat0).
 
-The Environment Agency released figures showing an increase in pollutants across many UK rivers and [_The Times_ published an article in August 2019 making the claim based on EU standards for swimming](https://www.thetimes.co.uk/article/pollution-no-river-in-england-is-safe-for-swimming-q8thdx678).
+The Environment Agency released figures showing an increase in pollutants across many UK rivers and [The Times published an article in August 2019 making the claim based on EU standards for swimming](https://www.thetimes.co.uk/article/pollution-no-river-in-england-is-safe-for-swimming-q8thdx678).
 
 The NHS is clear that [there is no link between the MMR vaccine and autism](https://www.nhs.uk/conditions/vaccinations/mmr-vaccine/) (MMR was the focus of the original [since discredited] study that claimed to have found a link). There is an ever-growing list of studies continuing to prove that there is no link between vaccines and autism. In the interest of balance, I also link a [list of studies showing there is in fact a link](http://vaccinescauseautism.com/). (Stop it. Vaccines do not cause autism.)
 

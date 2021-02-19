@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>committing-to-convictions on Tyler Ferguson</title>
-    <link>http://tylerferguson.me/categories/committing-to-convictions/</link>
-    <description>Recent content in committing-to-convictions on Tyler Ferguson</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://tylerferguson.me/categories/committing-to-convictions/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Committing to Convictions: How ‘They’ Lets Us Avoid Accountability</title>
-      <link>http://tylerferguson.me/posts/committing-to-convictions/committing-to-convictions/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://tylerferguson.me/posts/committing-to-convictions/committing-to-convictions/</guid>
-      <description>They say eating red meat causes cancer. They’re saying you shouldn’t swim in rivers anymore. They say vaccines cause autism.
-We’ve all heard these conversational opening gambits before. Big, bold statements that catch the eye and encourage you to jump straight to a hasty conclusion. But why is it that stuff like this is always uttered by them? And just who are they?
-The truth is that ‘they’ are no one.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>committing-to-convictions on Vitae</title>
+		<link>http://tylerferguson.me/categories/committing-to-convictions/</link>
+		<description>Recent content in committing-to-convictions on tylerferguson.me</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://tylerferguson.me/categories/committing-to-convictions/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Committing to Convictions: How ‘They’ Lets Us Avoid Accountability</title>
+			<link>http://tylerferguson.me/post/committing-to-convictions/committing-to-convictions/</link>
+			<pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+			
+			<guid>http://tylerferguson.me/post/committing-to-convictions/committing-to-convictions/</guid>
+			<description>
+			
+				They say eating red meat causes cancer. They’re saying you shouldn’t swim in rivers anymore. They say vaccines cause autism.
+We’ve all heard …
+			
+			</description>
+		</item>
+		
+	</channel>
 </rss>

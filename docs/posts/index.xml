@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Tyler Ferguson</title>
-    <link>http://tylerferguson.me/posts/</link>
-    <description>Recent content in Posts on Tyler Ferguson</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://tylerferguson.me/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
+	<channel>
+		<title>Posts on Vitae</title>
+		<link>http://tylerferguson.me/posts/</link>
+		<description>Recent content in Posts on tylerferguson.me</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
+		<lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://tylerferguson.me/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		
+	</channel>
 </rss>

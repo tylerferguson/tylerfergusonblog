@@ -1,12 +1,10 @@
 ---
 title: "What if Round 1 of the NBA Playoffs was best of 5?"
 date: 2020-06-30T21:49:00
-hero: /images/posts/nba-playoffs/hero.png
+image: /images/posts/nba-playoffs/hero.png
 author:
   name: Tyler Ferguson
-#   image: /assets/images/profile-image.jpg
-categories:
-- nba-playoffs
+tags: basketball
 ---
 
 Prior to the 2002–03 NBA season the first round of the NBA Playoffs was a best of 5 format. It had been this way since the 1984 season (a year that's been coming up an awful lot lately with [a certain documentary](https://en.wikipedia.org/wiki/The_Last_Dance_(2020_TV_series)) coming out). Before 1984 the league had experimented with a few different formats. But the post-1984 format is very familiar to us all: 4 rounds in the playoffs, each round is a best of 7 series.

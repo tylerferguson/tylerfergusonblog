@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>starting-a-blog on Tyler Ferguson</title>
-    <link>http://tylerferguson.me/categories/starting-a-blog/</link>
-    <description>Recent content in starting-a-blog on Tyler Ferguson</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2020 15:07:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://tylerferguson.me/categories/starting-a-blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>I&#39;m Starting a Blog</title>
-      <link>http://tylerferguson.me/posts/starting-a-blog/starting-a-blog/</link>
-      <pubDate>Tue, 23 Jun 2020 15:07:00 +0000</pubDate>
-      
-      <guid>http://tylerferguson.me/posts/starting-a-blog/starting-a-blog/</guid>
-      <description>This one actually. I have no set plan for content but I do have some goals.
-I want to share my thoughts on a whole bunch of topics with others. Not because they&amp;rsquo;re particularly insightful, but because I have lots of them that never make the cut for a real human conversation. I&amp;rsquo;m getting bored of being my own captive audience and now I want to make you miserable too.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>starting-a-blog on Vitae</title>
+		<link>http://tylerferguson.me/categories/starting-a-blog/</link>
+		<description>Recent content in starting-a-blog on tylerferguson.me</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Tue, 23 Jun 2020 15:07:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://tylerferguson.me/categories/starting-a-blog/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>I&#39;m Starting a Blog</title>
+			<link>http://tylerferguson.me/post/starting-a-blog/starting-a-blog/</link>
+			<pubDate>Tue, 23 Jun 2020 15:07:00 +0000</pubDate>
+			
+			<guid>http://tylerferguson.me/post/starting-a-blog/starting-a-blog/</guid>
+			<description>
+			
+				This one actually. I have no set plan for content but I do have some goals.
+I want to share my thoughts on a whole bunch of topics with …
+			
+			</description>
+		</item>
+		
+	</channel>
 </rss>

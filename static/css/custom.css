@@ -1,0 +1,26 @@
+body {
+    font-family: 'Mulish';
+    color: #3c4858;
+}
+
+.post blockquote {
+    border-left: 4px solid #248aaa;
+    font-style: italic;
+}
+
+a {
+    color: #3c4858;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: #248aaa;
+}
+
+.markdown a {
+    color: #248aaa;
+
+}
+
+#mainmenu a {
+    text-decoration-line: none;    
+    color: #248aaa;
+}

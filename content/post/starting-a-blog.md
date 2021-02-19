@@ -1,12 +1,9 @@
 ---
 title: "I'm Starting a Blog"
 date: 2020-06-23T15:07:00
-# hero: /images/posts/starting-a-blog/hero.jpg
 author:
   name: Tyler Ferguson
-#   image: /assets/images/profile-image.jpg
-categories:
-- starting-a-blog
+tags: thoughts
 ---
 
 This one actually. I have no set plan for content but I do have some goals.

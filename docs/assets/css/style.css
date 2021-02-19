@@ -196,7 +196,7 @@ img.right{
   background-color: #8392a5;
 }
 
-.footer p {
+.footer p:first-child {
   color: #c0ccda;
 }
 

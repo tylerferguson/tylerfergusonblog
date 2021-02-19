@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>I&#39;m Starting a Blog on Vitae</title>
+		<link>http://tylerferguson.me/post/starting-a-blog/</link>
+		<description>Recent content in I&#39;m Starting a Blog on tylerferguson.me</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
+		<lastBuildDate>Tue, 23 Jun 2020 15:07:00 +0000</lastBuildDate>
+		
+		<atom:link href="http://tylerferguson.me/post/starting-a-blog/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>I&#39;m Starting a Blog</title>
+			<link>http://tylerferguson.me/post/starting-a-blog/starting-a-blog/</link>
+			<pubDate>Tue, 23 Jun 2020 15:07:00 +0000</pubDate>
+			
+			<guid>http://tylerferguson.me/post/starting-a-blog/starting-a-blog/</guid>
+			<description>
+			
+				This one actually. I have no set plan for content but I do have some goals.
+I want to share my thoughts on a whole bunch of topics with …
+			
+			</description>
+		</item>
+		
+	</channel>
+</rss>
