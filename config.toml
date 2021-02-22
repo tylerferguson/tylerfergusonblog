@@ -110,10 +110,10 @@ weight = 4
 # icon = "fab fa-github"
 # url = "https://github.com/dataCobra/hugo-vitae"
 
-#[[params.social]]
-#name = "Email"
-#icon = "fas fa-envelope"
-#cmd = "mailto:example@example.com"
+[[params.social]]
+name = "Email"
+icon = "fas fa-envelope"
+cmd = "mailto:hi@tylerferguson.me"
 
 # [[params.social]]
 # name = "RSS"
