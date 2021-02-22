@@ -24,16 +24,16 @@ googleAnalytics = "UA-171622243-1"
 	homepage = false
 
 	# Add meta keywords in head part (Site Keywords or Tags of Page)
-	keywords = ["hugo","vitae","theme","static"]
+	keywords = ["tyler","ferguson","blog"]
 
 	# Add meta description in head part
 	description = "My thoughts on things."
 
 	# Add pagetitle to homepage <title> tag
-	pagetitle = "All about static site generation"
+	pagetitle = "My thoughts on things."
 
 	# Add a subtitle to your website
-	subtitle = "My thoughts on interesting things."
+	subtitle = "My thoughts on things."
 
 	# Activate to show authors on pages if available
 	#listAuthor = true
