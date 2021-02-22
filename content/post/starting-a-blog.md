@@ -18,6 +18,6 @@ Lastly, I just want to talk about and share the things that I like. I might talk
 
 I'm not certain what most of the blog will look like yet, but it will be the sort of things that I think about day-to-day - and that's at least genuine if not interesting! 
 
-Feel free to subscribe to keep up to date with new posts. And please reach out for a chat, coffee or beer (or all three).
+Please feel free to reach out for a chat, coffee or beer (or all three).
 
 
