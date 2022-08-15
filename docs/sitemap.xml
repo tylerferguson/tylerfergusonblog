@@ -1,57 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>http://tylerferguson.me/post/committing-to-convictions/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://tylerferguson.me/post/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://tylerferguson.me/tags/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://tylerferguson.me/tags/thoughts/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://tylerferguson.me/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://tylerferguson.me/tags/basketball/</loc>
     <lastmod>2020-06-30T21:49:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://tylerferguson.me/post/nba-playoffs/</loc>
     <lastmod>2020-06-30T21:49:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://tylerferguson.me/post/starting-a-blog/</loc>
     <lastmod>2020-06-23T15:07:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://tylerferguson.me/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://tylerferguson.me/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://tylerferguson.me/series/</loc>
   </url>
-  
 </urlset>

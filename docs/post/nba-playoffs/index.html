@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"><head>
 	
-	<meta name="generator" content="Hugo 0.80.0" />
+	<meta name="generator" content="Hugo 0.101.0" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -14,9 +14,10 @@
 	<meta name="author" content="map[name:Tyler Ferguson]"><meta name="keywords" content="98,97,115,107,101,116,98,97,108,108"><meta name="description" content="Prior to the 2002–03 NBA season the first round of the NBA Playoffs was a best of 5 format. It had been this way since the 1984 season (a …"><meta property="og:title" content="What if Round 1 of the NBA Playoffs was best of 5?" />
 <meta property="og:description" content="Prior to the 2002–03 NBA season the first round of the NBA Playoffs was a best of 5 format. It had been this way since the 1984 season (a year that&rsquo;s been coming up an awful lot lately with a certain documentary coming out). Before 1984 the league had experimented with a few different formats. But the post-1984 format is very familiar to us all: 4 rounds in the playoffs, each round is a best of 7 series." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://tylerferguson.me/post/nba-playoffs/" />
+<meta property="og:url" content="http://tylerferguson.me/post/nba-playoffs/" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2020-06-30T21:49:00+00:00" />
 <meta property="article:modified_time" content="2020-06-30T21:49:00+00:00" />
+
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="What if Round 1 of the NBA Playoffs was best of 5?"/>
 <meta name="twitter:description" content="Prior to the 2002–03 NBA season the first round of the NBA Playoffs was a best of 5 format. It had been this way since the 1984 season (a year that&rsquo;s been coming up an awful lot lately with a certain documentary coming out). Before 1984 the league had experimented with a few different formats. But the post-1984 format is very familiar to us all: 4 rounds in the playoffs, each round is a best of 7 series."/>
@@ -90,9 +91,8 @@
 <h2 id="results">Results</h2>
 <p><em>(If you&rsquo;re interested in how we get to these results using R see <a href="#method">Method</a>
  below.)</em></p>
-<figure>
-    <img src="/images/posts/nba-playoffs/1.png"
-         alt="Playoff series where the best of 5 winner was not the same as the best of 7 winner (2003–2019)."/> <figcaption>
+<figure><img src="/images/posts/nba-playoffs/1.png"
+         alt="Playoff series where the best of 5 winner was not the same as the best of 7 winner (2003–2019)."/><figcaption>
             <p>Playoff series where the best of 5 winner was not the same as the best of 7 winner (2003–2019).</p>
         </figcaption>
 </figure>
@@ -217,9 +217,8 @@
 ## #   plusminusTeam &lt;dbl&gt;, urlTeamSeasonLogo &lt;chr&gt;
 </code></pre>
 <p>There&rsquo;s a lot of columns there and it&rsquo;s not that pretty to look at so let&rsquo;s reduce it down to the parts we&rsquo;ll need and have another peek at the first few rows:</p>
-<figure>
-    <img src="/images/posts/nba-playoffs/2.png"
-         alt="First 6 rows of games table"/> <figcaption>
+<figure><img src="/images/posts/nba-playoffs/2.png"
+         alt="First 6 rows of games table"/><figcaption>
             <p>First 6 rows of games table</p>
         </figcaption>
 </figure>
@@ -236,9 +235,8 @@
  to make sure the assumptions and variables we&rsquo;ve created are valid.</p>
 <script type="application/javascript" src="https://gist.github.com/tylerferguson/92a6feb663f981074c6a986ab3b10765.js"></script>
 
-<figure>
-    <img src="/images/posts/nba-playoffs/3.png"
-         alt="First 6 rows of home_games table with the three new variables Game, Matchup and Round"/> <figcaption>
+<figure><img src="/images/posts/nba-playoffs/3.png"
+         alt="First 6 rows of home_games table with the three new variables Game, Matchup and Round"/><figcaption>
             <p>First 6 rows of home_games table with the three new variables Game, Matchup and Round</p>
         </figcaption>
 </figure>
@@ -248,9 +246,8 @@
 <p>For a given series this results in two groups: the group of games where Team A won, and the group of games where Team B won. The number of cumulative wins is just the row number in each of those groups, e.g. the first row in group A is the first game that Team A has won, the second row the second game won and so on.</p>
 <script type="application/javascript" src="https://gist.github.com/tylerferguson/e74be7ccfbed7cb82ab2b357c99a35bb.js"></script>
 
-<figure>
-    <img src="/images/posts/nba-playoffs/4.png"
-         alt="First 6 rows of home_games table with cumulative Wins variable."/> <figcaption>
+<figure><img src="/images/posts/nba-playoffs/4.png"
+         alt="First 6 rows of home_games table with cumulative Wins variable."/><figcaption>
             <p>First 6 rows of home_games table with cumulative Wins variable.</p>
         </figcaption>
 </figure>
@@ -258,9 +255,8 @@
 <p>We are now at our final step. In order to find the teams that won Round 1 in a best of 5 format we need to filter down to Round 1 games and sort ascending by date, then consider each series and summarise the original <code>BestOf7Winner</code> as the team that won 4 games and the <code>BestOf5Winner</code> as the team that was the first to win 3 games.</p>
 <script type="application/javascript" src="https://gist.github.com/tylerferguson/c5be3abd698b9ecd1b30d5830d568f40.js"></script>
 
-<figure>
-    <img src="/images/posts/nba-playoffs/5.png"
-         alt="First 6 rows of round1_winners table. Note the discrepancy on the very first row between the two winners."/> <figcaption>
+<figure><img src="/images/posts/nba-playoffs/5.png"
+         alt="First 6 rows of round1_winners table. Note the discrepancy on the very first row between the two winners."/><figcaption>
             <p>First 6 rows of round1_winners table. Note the discrepancy on the very first row between the two winners.</p>
         </figcaption>
 </figure>
